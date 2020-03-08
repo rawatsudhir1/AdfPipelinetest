@@ -1,7 +1,7 @@
 {
 	"name": "pipeline1",
 	"properties": {
-		"description": "I am done",
+		"description": "I am done. okay",
 		"activities": [
 			{
 				"name": "Copy data1",
